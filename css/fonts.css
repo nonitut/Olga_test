@@ -1,0 +1,43 @@
+@font-face {
+    font-family: "Museo300";
+    src: url("../MuseoSansCyrillic/Museo300.otf") format(opentype);
+    font-weight: 300;
+    font-style: normal;
+}
+
+p{ 
+    font-family: "Museo300";
+}
+
+@font-face {
+    font-family: "MuseoSansCyrl_700";
+    src: url("../MuseoSansCyrillic/MuseoSansCyrl_700.otf") format(opentype);
+    font-weight: 700;
+    font-style: normal;
+}
+
+h1{
+    font-family: "MuseoSansCyrl_700";
+}
+
+@font-face {
+    font-family: "MuseoSansCyrl_900";
+    src: url("../MuseoSansCyrillic/MuseoSansCyrl_900.otf") format(opentype);
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "MuseoSansCyrl_100";
+    src: url("../MuseoSansCyrillic/MuseoSansCyrl_100.otf") format(opentype);
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "MuseoSansCyrl_500";
+    src: url("../MuseoSansCyrillic/MuseoSansCyrl_500.otf") format(opentype);
+    font-weight: 100;
+    font-style: normal;
+}
+

@@ -1,0 +1,1286 @@
+body {
+    width: 1440px;
+    height: 11494px;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+}
+
+
+.Firstpart {
+    position: relative;
+    top: 16px;
+    /* left: 100px; */
+
+
+}
+.top{
+    position: relative;
+    width: 1280px;
+    margin-top: 0px;
+    margin-left: 80px;
+
+
+
+
+}
+.title{    
+    position: relative;
+    padding: 0px;
+    color: #000;
+    text-align: center;
+    font-family: "Museo Sans Cyrl";
+    font-size: 96px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-transform: capitalize;
+    justify-content: center;  
+    width: 760px;
+    height: 230px;
+    margin-top: 120px;
+    margin-left: 340px;
+}
+
+
+
+
+.diamondright{
+    position: relative;
+    width: 101px;
+    margin-top: -325px;
+    margin-left: 920px;
+
+
+
+
+}
+.Firstpart2 {
+    position: absolute;
+
+
+}
+.diamonleft{
+    position: relative;
+    width: 101px;
+    margin-top: -220px;
+    margin-left: 80px;  
+
+
+}
+
+
+.diamondbottom{
+    position: relative;
+    width: 1280px;
+    margin-Top: 12px;
+    margin-left: 80px;  
+}
+
+
+
+
+
+
+.arrowright1{
+    position: relative;
+    margin-top: 200px;
+    margin-left: 80px;    
+    margin-right: 80px;
+}
+
+
+
+
+
+
+.text1{    
+    position: relative;
+    display: flex;
+    color: #000;
+    -color: #6b91a7;
+    justify-content: center;  
+    font-family: "Museo Sans Cyrl";
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: capitalize;
+    width: 326px;
+    height: 77px;
+    margin-left: 382px;
+    margin-top: -110px;
+    margin-right: 80px;
+}
+
+
+.paragraph {
+    display: flex;
+    position: relative;
+    color: #000;
+    font-family: "Museo Sans Cyrl";
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    width: 760px;
+    height: 380px;
+    margin-left: 80px;
+    margin-top: 50px;
+}
+
+
+.rectangle01 {
+    position: relative;
+    width: 288px;
+    height: 91px;
+    background-color: #F00;
+    margin-top: -237px;
+    margin-left: 954px;
+}
+
+
+.containerrectangle {
+    position: relative;
+    margin-left: 1266px;
+    margin-top: -230px;
+}
+
+
+
+
+.rect {
+    width: 94px;
+    height: 109px;
+    background-color: #F00;
+    margin-bottom: 20px;
+    /* Gap between rectangles */
+}
+
+
+.rect:last-child {
+    margin-bottom: 0;
+}
+
+
+.arrow180 {
+    position: relative;
+    transform: rotate(180deg);
+    width:270px;
+    margin-top: 152px;
+    margin-left: 1088px ;
+}
+
+
+.text2{    
+    position: relative;
+    display: flex;
+    color: #000;
+    justify-content: center;  
+    font-family: "MuseoSansCyrl_700";
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: capitalize;
+    width: 326px;
+    height: 77px;
+    margin-left: 720px;
+    margin-top: -110px;
+    margin-right: 80px;
+}
+
+
+
+
+.lettersfirst {
+    position: relative;
+    margin-top: 70px;
+}
+
+
+
+
+#letter1 {
+    position: absolute;
+    font-family: "MuseoSansCyrl_900";
+    color: rgba(0, 0, 0, 0.36);
+    font-size: 150px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-left: 72px;
+    letter-spacing: 21px;
+}
+
+
+#letter2 {
+    position: absolute;
+    font-family: "MuseoSansCyrl_700";
+    color: rgba(0, 0, 0, 0.36);
+    font-size: 150px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    margin-left: 360px;
+    letter-spacing: 21px;
+}
+
+
+#letter3 {
+    position: absolute;
+    font-family: "MuseoSansCyrl_500";
+    color: rgba(0, 0, 0, 0.36);
+    font-size: 150px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    margin-left: 644px;
+    letter-spacing: 21px;
+}
+
+
+#letter4 {
+    position: absolute;
+    font-family: "Museo300";
+    color: rgba(0, 0, 0, 0.36);
+    font-size: 150px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    margin-left: 915px;
+    letter-spacing: 21px;
+}
+
+
+#letter5 {
+    position: relative;
+    font-family: "MuseoSansCyrl_100";
+    color: rgba(0, 0, 0, 0.36);
+    font-size: 150px;
+    font-style: normal;
+    font-weight: 250;
+    line-height: normal;
+    margin-left: 1185px;
+    letter-spacing: 21px;
+}
+
+
+.roulette {
+    position: absolute;
+    margin-left: 320px;
+    margin-top: -860px;
+}
+
+
+
+
+
+
+.arrow2 {
+    position: relative;
+    width:270px;
+    margin-top: 152px;
+    margin-left: 80px ;
+}
+
+
+.text3{    
+    position: relative;
+    display: flex;
+    color: #000;
+    justify-content: center;  
+    font-family: "Museo Sans Cyrl";
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-transform: capitalize;
+    width: 326px;
+    height: 77px;
+    margin-left: 420px;
+    margin-top: -110px;
+    margin-right: 80px;
+}
+
+
+.red-box1 {
+    position: relative;
+    width: 1270px;
+    height: 78px;
+    background-color: #F00;
+    width: 1270px;
+    height: 78px;
+    margin-left: 80px;
+    margin-top: 56px;
+    position: absolute;
+    justify-content: center;
+    /* Centers content horizontally */
+    align-items: center;
+    /* Centers content vertically */
+}
+
+
+
+
+
+
+.text4 {
+    position: relative;
+    font-family: "MuseoSansCyrl_500";
+    color: #fff;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    height: 38px;
+    white-space: nowrap; 
+    margin-left: 121px;
+    margin-top: 80px;
+    display: flex; 
+    justify-content: flex-start;
+    gap: 60px; 
+}
+
+
+
+
+
+
+.letters11 {
+    position: relative;
+    margin-top: 120PX;
+    margin-left: 60px;
+    text-align: center;
+    /* Aligns all the text to the center of the parent */
+}
+
+
+/* Red, large, capitalized text */
+.red1 {
+    color: #F00;
+    /* Red color */
+    font-family: "MuseoSansCyrl_700";
+    font-size: 128px;
+    font-weight: 700;
+    margin: 0 5px;
+    /* Reduced margin to 5px for less gap */
+    text-transform: capitalize;
+    /* Capitalizes the first letter */
+    display: inline-block;
+    /* Keeps the letters inline */
+    line-height: normal;
+    margin: 0 1px;
+    /* Optional: Adds a little spacing between letters */
+}
+
+
+/* Black, smaller, uppercase text */
+.black1 {
+
+
+    color: #000;
+    /* Black color */
+    font-family: "MuseoSansCyrl_700";
+    font-size: 96px;
+    font-weight: 700;
+    text-transform: uppercase;
+    /* All uppercase letters */
+    display: inline-block;
+    /* Keeps the letters inline */
+    line-height: normal;
+    margin: 0 1px;
+    /* Reduced margin to 5px for less gap */
+}
+
+.letters22 {
+    margin-top: 15px;
+    
+}
+
+
+
+.circle-container {
+    background-color: transparent;
+
+
+    /* Black border, adjust thickness if needed */
+
+
+    margin: 0px;
+    /* Optional margin around the container */
+}
+
+
+.circle1 {
+    position:relative;
+    margin-top: -300px;
+    margin-left: 370px;
+    width: 50px;
+    height: 50px;
+    border: 4px solid #000;
+    /* White circle */
+    border-radius: 50%;
+
+
+    /* Makes the div circular */
+}
+
+
+.circle2 {
+    position:relative;
+    margin-top: -80px;
+    margin-left: 590px;
+    width: 50px;
+    height: 50px;
+    background-color: transparent;
+    /* White circle */
+    border: 4px solid #000;
+    /* Black border, adjust thickness if needed */
+    border-radius: 50%;
+    /* Makes the div circular */
+}
+
+
+.circle3 {
+    position:relative;
+    margin-top: 40px;
+    margin-left: 845px;
+    width: 50px;
+    height: 50px;
+    background-color: transparent;
+    /* White circle */
+    border: 4px solid #000;
+    /* Black border, adjust thickness if needed */
+    border-radius: 50%;
+    /* Makes the div circular */
+}
+.circle4 {
+    position:relative;
+    margin-top: -150px;
+    margin-left: 1090px;
+    width: 50px;
+    height: 50px;
+    background-color: transparent;
+    /* White circle */
+    border: 4px solid #000;
+    /* Black border, adjust thickness if needed */
+    border-radius: 50%;
+    /* Makes the div circular */
+}
+
+
+.circle5 {
+    position:relative;
+    margin-top: 120px;
+    margin-left: 680px;
+    width: 50px;
+    height: 50px;
+    background-color: transparent;
+    /* White circle */
+    border: 4px solid #000;
+    /* Black border, adjust thickness if needed */
+    border-radius: 50%;
+    /* Makes the div circular */
+}
+
+
+
+
+.circle6 {
+    position:relative;
+    margin-top: 25px;
+    margin-left: 850px;
+    width: 50px;
+    height: 50px;
+    background-color: transparent;
+    /* White circle */
+    border: 4px solid #000;
+    border-radius: 50%;
+}
+
+
+
+
+.red-box2 {
+    position: relative;
+    width: 1270px;
+    height: 78px;
+    background-color: #F00;
+    width: 1270px;
+    height: 78px;
+    margin-left: 80px;
+    margin-top: 120px;
+    position: absolute;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+
+.icone {
+    position: relative;
+    margin-left: 80px;
+    margin-top: 120px;
+   
+}
+
+
+
+
+.wordballon {
+    position: relative;
+    margin-left: 174px;
+    margin-top: -10px;
+   
+}
+
+
+.arrow180-2 {
+    position: relative;
+    transform: rotate(180deg);
+    width:270px;
+    margin-top: 152px;
+    margin-left: 1088px ;
+}
+
+
+.text5{    
+    position: relative;
+    display: flex;
+    color: #000;
+    justify-content: center;  
+    font-family: "Museo Sans Cyrl";
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-transform: capitalize;
+    width: 326px;
+    height: 77px;
+    margin-left: 720px;
+    margin-top: -110px;
+    margin-right: 80px;
+}
+
+
+
+
+.icone2 {
+    position: relative;
+    margin-right: 80px;
+}
+
+
+#img1 {
+    position: absolute;
+    margin-left: 442PX;
+    margin-top: 80px;
+}
+
+
+#img2 {
+    position: absolute;
+    margin-left: 377px;
+    margin-top: 200px;
+}
+
+
+#img3 {
+    position: absolute;
+    margin-left: 320PX;
+    margin-top: 323px;
+}
+
+
+#img4 {
+    position: absolute;
+    margin-left: 350px;
+    margin-top: 454px;
+}
+#img5{
+    position: absolute;
+    margin-left: 396PX;
+    margin-top:567px;
+}
+
+
+#img6 {
+    position: absolute;
+    margin-left:442px;
+    margin-top: 689px;
+}
+
+
+
+
+#img7 {
+    position: absolute;
+    margin-left: 905PX;
+    margin-top: 80px;
+}
+
+
+#img8{
+    position: absolute;
+    margin-left: 969px;
+    margin-top: 200px;
+}
+
+
+#img9 {
+    position: absolute;
+    margin-left: 1037PX;
+    margin-top: 323px;
+}
+
+
+#img10 {
+    position: absolute;
+    margin-left: 1037px;
+    margin-top: 454px;
+}
+#img11{
+    position: absolute;
+    margin-left: 973PX;
+    margin-top:567px;
+}
+
+
+#img12 {
+    position: absolute;
+    margin-left: 897px;
+    margin-top: 689px;
+}
+
+
+.clown {
+    position: absolute;
+    margin-left: 523px;
+    margin-top: 162px;
+}
+
+
+
+
+.words {
+    position: relative;
+    margin-right: 80px;
+    font-family: "MuseoSansCyrl_700";
+    font-size: 38px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: capitalize;
+}
+
+
+
+
+#word1 {
+    position: absolute;
+    margin-left:152px;
+    margin-top: 96px;
+}
+
+
+#word2 {
+    position: absolute;
+    text-transform: capitalize;
+    margin-left: 228px;
+    margin-top: 220px;
+}
+
+
+
+
+#word3 {
+    position: absolute;
+    margin-left:171px;
+    margin-top: 340px;
+}
+
+
+#word4 {
+    position: absolute;
+    text-transform: capitalize;
+    margin-left: 80px;
+    margin-top: 462px;
+}
+
+
+
+
+#word5 {
+    position: absolute;
+    margin-left:160px;
+    margin-top: 584Px;
+}
+
+
+#word6 {
+    position: absolute;
+    text-transform: capitalize;
+    margin-left: 192px;
+    margin-top: 706px;
+}
+
+
+
+
+
+
+#word7 {
+    position: absolute;
+width: 383px;
+    margin-left:978px;
+    margin-top: 96px;
+}
+
+
+#word8 {
+    position: absolute;
+    text-transform: capitalize;
+    margin-left: 1042px;
+    margin-top: 220px;
+}
+
+
+
+
+#word9 {
+    position: absolute;
+    margin-left:1110px;
+    margin-top: 340px;
+}
+
+
+#word10 {
+    position: absolute;
+    text-transform: capitalize;
+    margin-left: 1110px;
+    margin-top: 462px;
+}
+
+
+
+
+#word11 {
+    position: absolute;
+    margin-left:1046px;
+    margin-top: 584Px;
+}
+
+
+#word12 {
+    position: absolute;
+    text-transform: capitalize;
+    margin-left:970px;
+    margin-top: 706px;
+}
+
+
+
+
+.arrowright3{
+    position: relative;
+    margin-top:921px;
+    margin-left: 80px;    
+    margin-right: 80px;
+}
+
+
+
+
+
+
+.text6{    
+    position: relative;
+    display: flex;
+    color: #000;
+    justify-content: center;  
+    font-family: "Museo Sans Cyrl";
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-transform: capitalize;
+    width: 326px;
+    height: 77px;
+    margin-left: 302px;
+    margin-top: -110px;
+    margin-right: 80px;
+}
+
+
+
+
+.container1 {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    gap: 84px;
+    margin-left: 0px;
+    margin-top: 104px;
+    
+}
+
+
+
+
+.container2 {
+    position: relative;
+    display: flex;
+    /* Arrange the circles in a horizontal row */
+    justify-content: center;
+    /* Center the circles horizontally */
+    gap: 84px;
+    /* Add space between the circles */
+    margin-left: 0px;
+    margin-top: 90px;
+    /* Optional: add some top margin */
+}
+
+
+
+
+.container3 {
+    position: relative;
+    display: flex;
+    /* Arrange the circles in a horizontal row */
+    justify-content: center;
+    /* Center the circles horizontally */
+    gap: 84px;
+    /* Add space between the circles */
+    margin-left: 0px;
+    margin-top: 90px;
+    /* Optional: add some top margin */
+}
+
+
+.circle {
+    width: 109px;
+    height: 109px;
+    border-radius: 50%;
+    /* Make it a perfect circle */
+    display: flex;
+
+
+    justify-content: center;
+    align-items: center;
+    font-size: 48px;
+    font-weight: bold;
+    color: #fff;
+    /* Default text color */
+}
+
+
+/* Black circles */
+.black {
+    background-color: #000;
+}
+
+
+/* Red circle */
+.red {
+    background-color: #F00;
+}
+
+
+
+
+.arrow180-3 {
+    position: relative;
+    transform: rotate(180deg);
+    width:270px;
+    margin-top: 152px;
+    margin-left: 1088px ;
+}
+
+
+.text7{    
+    position: relative;
+    display: flex;
+    color: #000;
+    justify-content: center;  
+    font-family: "Museo Sans Cyrl";
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-transform: capitalize;
+    width: 326px;
+    height: 77px;
+    margin-left: 800px;
+    margin-top: -110px;
+    margin-right: 80px;
+}
+
+
+
+
+.rectanglesred{    position: relative;
+    margin-top: 164px;
+}
+
+
+.rectangle1 {
+    position: absolute;
+    width: 761px;
+    height: 94px;
+    background-color: #F00;
+    margin-top: 0PX;
+    margin-left: 80px;
+}
+
+
+.rectangle2 {
+    position: absolute;
+    width: 330px;
+    height: 94px;
+    background-color: #F00;
+    margin-top: 0PX;
+    margin-left: 1031px;
+}
+
+
+.rectangle3 {
+    position: absolute;
+    width: 101px;
+    height: 94px;
+    background-color: #F00;
+    margin-top: 250px;
+    margin-left: 80px;
+}
+
+
+
+
+.rectangle4 {
+    position: absolute;
+    width: 990px;
+    height: 94px;
+    background-color: #F00;
+    margin-top: 250px;
+    margin-left: 371px;
+}
+
+
+
+
+
+
+.rectangle5 {
+    position: absolute;
+    width: 541px;
+    height: 94px;
+    background-color: #F00;
+    margin-top: 500px;
+    margin-left: 80px;
+}
+
+
+
+
+.rectangle6 {
+    position: absolute;
+    width: 550px;
+    height: 94px;
+    background-color: #F00;
+    margin-top: 500px;
+    margin-left: 811px;
+}
+.numbers{    position: relative;
+    margin-top:-164px;
+}
+.number1 {
+    position: absolute;
+    width: 155px;
+    height: 360px;
+    /* Make it a perfect circle */
+    display: flex;
+    margin-left: 860px;
+    margin-top: 0px;
+    justify-content: center;
+    align-items: center;
+    font-size: 300px;
+    font-weight: bold;
+    color: #000;
+}
+
+
+.number2 {
+    position: absolute;
+    width: 155px;
+    height: 360px;
+    /* Make it a perfect circle */
+    display: flex;
+    margin-left: 192px;
+    margin-top: 270px;
+    justify-content: center;
+    align-items: center;
+    font-size: 300px;
+    font-weight: bold;
+    color: #000;
+}
+
+
+.number3 {
+    position: absolute;
+    width: 155px;
+    height: 360px;
+    /* Make it a perfect circle */
+    display: flex;
+    margin-left: 630px;
+    margin-top: 520px;
+    justify-content: center;
+    align-items: center;
+    font-size: 300px;
+    font-weight: bold;
+    color: #000;
+}
+.places{position: relative;
+    margin-top:-164px;
+}
+.etage {
+    position: absolute;
+    font-family: "Museo Sans Cyril";
+    width: 151px;
+    height: 77px;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-transform: lowercase;
+    margin-left: 690px;
+    margin-top: 254PX;
+}
+
+
+
+
+.aisle {
+    position: absolute;
+    font-family: "Museo Sans Cyril";
+    width: 113px;
+    height: 77px;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-transform: lowercase;
+    margin-left: 371px;
+    margin-top: 510PX;
+}
+
+
+.place {
+    position: absolute;
+    font-family: "Museo Sans Cyril";
+    width: 191px;
+    height: 77px;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-transform: lowercase;
+    margin-left: 811px;
+    margin-top: 750px;
+}
+
+
+
+
+
+
+.arrowright4{
+    position: relative;
+    margin-top:1254px;
+    margin-left: 80px;    
+    margin-right: 0px;
+}
+
+
+
+
+
+
+.text8{    
+    position: relative;
+    display: flex;
+    color: #000;
+    justify-content: center;  
+    font-family: "Museo Sans Cyrl";
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-transform: capitalize;
+    width: 769px;
+    height: 77px;
+    margin-left: 330px;
+    margin-top: -120px;
+    margin-right: 80px;
+}
+
+
+.squarerot1 {
+    position: relative;
+    width: 100px;
+    height: 100px;
+    margin-left: 80px;
+    margin-top: 88px;
+    justify-content: center;
+    align-items: center;
+    font-size: 300px;
+    font-weight: bold;
+    background-color: #F00;
+    transform: rotate(45deg);
+}
+.text9{    
+    position: relative;
+    display: flex;
+    color: #000;
+    justify-content: center;  
+    font-family: "Museo Sans Cyrl";
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-transform: capitalize;
+    width: 267px;
+    height: 77px;
+    margin-left: 240px;
+    margin-top: -90px;
+    margin-right: 80px;
+}
+
+
+
+
+.placardimages{    position: relative;
+    margin-left: 0px;
+    margin-top: 0PX;}
+
+
+.image13 {
+    position: absolute;
+    margin-left: 80px;
+
+
+    margin-top: 88PX;
+}
+
+
+.image14 {
+    position:   absolute;
+    margin-left: 730px;
+    margin-top: 88px;
+}
+
+
+.squarerot2 {
+    position: relative;
+    width: 100px;
+    height: 100px;
+    margin-left: 80px;
+    margin-top: 1207px;
+    justify-content: center;
+    align-items: center;
+    font-size: 300px;
+    font-weight: bold;
+    background-color: #F00;
+    transform: rotate(45deg);
+}
+.text10{    
+    position: relative;
+    display: flex;
+    color: #000;
+    justify-content: center;  
+    font-family: "Museo Sans Cyrl";
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-transform: capitalize;
+    width: 267px;
+    height: 77px;
+    margin-left: 220px;
+    margin-top: -90px;
+    margin-right: 80px;
+}
+
+
+.imagesbillet{
+    position: relative;
+    margin-left: 0px;
+ }
+
+
+.image15 {
+    position: absolute;
+    margin-left: 80px;
+    margin-top: 122px;
+}
+
+
+.image16 {
+    position: absolute;
+    margin-left: 919px;
+    margin-top: 147px;
+}
+
+
+.image17 {
+    position: absolute;
+    margin-left: 543px;
+    margin-top: 491px;
+}
+
+
+.image18 {
+    position: absolute;
+    margin-left: 80px;
+    margin-top: 491px;
+}
+
+
+.image19 {
+    position: relative;
+}
+
+
+
+.top2{
+    position: relative;
+    width: 1280px;
+    margin-top: 1013px;
+    margin-left: 80px;
+
+
+
+
+}
+.endtitle{    
+    position: relative;
+    padding: 0px;
+    color: #000;
+    text-align: center;
+    font-family: "Museo Sans Cyrl";
+    font-size: 96px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-transform: capitalize;
+    justify-content: center;  
+    width: 1280px;
+    height: 115px;
+    margin-top: 160px;
+    margin-left: 80px;
+}
+.diamondbottom2{
+    position: relative;
+    width: 1280px;
+    margin-top: 160px;
+    margin-left: 80px;
+}
